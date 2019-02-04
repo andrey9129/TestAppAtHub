@@ -24,7 +24,7 @@ void __fastcall TForm1::Button1Click(TObject *Sender)
 // ---------------------------------------------------------------------------
 void __fastcall TForm1::Button2Click(TObject *Sender)
 {
-	Button2->Caption = "quick";
+	Button2->Caption = "Good!";
 }
 
 // ---------------------------------------------------------------------------
