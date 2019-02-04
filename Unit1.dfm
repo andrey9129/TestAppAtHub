@@ -38,4 +38,12 @@ object Form1: TForm1
     TabOrder = 1
     OnClick = Button2Click
   end
+  object CheckBox1: TCheckBox
+    Left = 176
+    Top = 176
+    Width = 97
+    Height = 17
+    Caption = 'CheckBox1'
+    TabOrder = 2
+  end
 end

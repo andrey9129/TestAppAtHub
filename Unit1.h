@@ -14,6 +14,7 @@ __published:	// IDE-managed Components
 	TButton *Button1;
 	TLabel *Label1;
 	TButton *Button2;
+	TCheckBox *CheckBox1;
 	void __fastcall Button1Click(TObject *Sender);
 	void __fastcall Button2Click(TObject *Sender);
 
