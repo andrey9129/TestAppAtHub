@@ -45,5 +45,6 @@ object Form1: TForm1
     Height = 17
     Caption = 'CheckBox1'
     TabOrder = 2
+    OnClick = CheckBox1Click
   end
 end

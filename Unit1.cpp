@@ -26,4 +26,13 @@ void __fastcall TForm1::Button2Click(TObject *Sender)
 {
 	Button2->Caption = "quick";
 }
+
+// ---------------------------------------------------------------------------
+void __fastcall TForm1::CheckBox1Click(TObject *Sender)
+{
+	if (CheckBox1->Checked)
+		Caption = "Checked";
+	else
+		Caption = "No";
+}
 // ---------------------------------------------------------------------------

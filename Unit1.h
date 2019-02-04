@@ -17,6 +17,7 @@ __published:	// IDE-managed Components
 	TCheckBox *CheckBox1;
 	void __fastcall Button1Click(TObject *Sender);
 	void __fastcall Button2Click(TObject *Sender);
+	void __fastcall CheckBox1Click(TObject *Sender);
 
 private:	// User declarations
 public:		// User declarations
